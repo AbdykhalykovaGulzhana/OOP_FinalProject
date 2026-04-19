@@ -92,6 +92,9 @@
 
 #### Apple,10,50,Fruit
 #### Milk,5,80,Dairy
+#### Bread,15,40,Bakery
+#### Rice,20,70,Grains
+#### Eggs,30,10,Dairy
 
 #### When the program starts, it reads this file and loads all products into memory.
 
