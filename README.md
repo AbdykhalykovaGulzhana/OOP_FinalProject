@@ -3,6 +3,7 @@
 ### Student Name
 
 #### Gulzhana Abdykhalykova
+#### Presentation link: https://canva.link/n7wcoqkzle39kcy
 
 ## Description:
 
