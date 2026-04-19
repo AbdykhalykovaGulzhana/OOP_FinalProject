@@ -22,6 +22,16 @@
 
 #### The user can interact with the system through a menu and perform different operations.
 
+## Objectives
+
+#### The main goals of this project are:
+
+#### * To implement CRUD operations (create, read, update, delete)
+#### * To practice Object-Oriented Programming (OOP) concepts
+#### * To work with file handling in Java
+#### * To create a simple and user-friendly command-line interface
+#### * To store and manage product data efficiently
+
 ## Main Features
 
 #### The program supports the following operations:
@@ -36,7 +46,6 @@
 ## How the Program Works
 
 #### When the program starts, it loads data from a file called catalog.txt.
-#### Then it shows a menu where the user can choose an action.
 
 #### Example menu:
 
@@ -88,7 +97,6 @@
 ## Data Storage
 
 #### All data is stored in a file called catalog.txt.
-#### Each product is saved in one line using this format:
 
 #### Apple,10,50,Fruit
 #### Milk,5,80,Dairy
@@ -124,19 +132,6 @@
 #### The program uses try-catch blocks to handle incorrect input.
 #### For example, if the user enters letters instead of numbers, the program shows an error message and does not crash.
 
-#### Also, the program checks if the name field is empty.
-
-## Challenges
-
-#### While working on this project, I had some difficulties with:
-
-#### * reading and writing files
-#### * handling user input
-#### * understanding OOP concepts
-
-#### But after practice, I was able to solve these problems.
-
 ## Conclusion
 
 #### This project helped me better understand Java programming, especially OOP principles and file handling.
-#### It also improved my ability to design and organize code into different classes.
