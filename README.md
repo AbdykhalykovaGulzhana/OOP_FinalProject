@@ -32,6 +32,23 @@
 #### * To create a simple and user-friendly command-line interface
 #### * To store and manage product data efficiently
 
+## Project Requirement List
+
+#### The system should:
+
+#### 1. Allow users to add new products
+#### 2. Display all products
+#### 3. Update product information
+#### 4. Delete products from the list
+#### 5. Search products by name
+#### 6. Save data to a file
+#### 7. Load data from a file
+#### 8. Validate user input (e.g., prevent empty fields and incorrect numbers)
+#### 9. Handle errors using try-catch blocks
+#### 10. Use Object-Oriented Programming principles
+#### 11. Store data using ArrayList
+#### 12. Provide a command-line interface for user interaction
+
 ## Main Features
 
 #### The program supports the following operations:
