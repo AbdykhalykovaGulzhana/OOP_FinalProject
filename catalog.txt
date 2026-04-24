@@ -1,0 +1,6 @@
+Apple,10,50.0,Fruit
+Milk,5,80.0,Dairy
+Bread,15,40.0,Bakery
+Rice,20,70.0,Grains
+Eggs,30,10.0,Dairy
+Kiwi,20,15.0,Fruit
